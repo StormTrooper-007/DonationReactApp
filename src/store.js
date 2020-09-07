@@ -10,14 +10,6 @@ import completedReducer from './reducers/completedReducer'
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCeYIjXP7MxtD_yAOml4_uvhvntOEcoyPQ",
-    authDomain: "reactapp-f3289.firebaseapp.com",
-    databaseURL: "https://reactapp-f3289.firebaseio.com",
-    projectId: "reactapp-f3289",
-    storageBucket: "reactapp-f3289.appspot.com",
-    messagingSenderId: "660691709862",
-    appId: "1:660691709862:web:22447cf39f1e9e0b156967",
-    measurementId: "G-6SM8HD25TY"
   };
 
   const rrfConfig = {
